@@ -22,5 +22,5 @@ The SVG Logo Generator is a simple command-line application that allows you to c
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/alisha1025/simple-logo-generator.git>
    cd <repository-directory>
